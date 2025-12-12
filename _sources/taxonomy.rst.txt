@@ -9,35 +9,35 @@ A List of Defect Taxonomy
 
    * - Project
      - # of bugs
-   * - zsh
-     - 5
-   * - cppcheck
-     - 30
    * - libsndfile
      - 4
    * - libchewing
      - 8
-   * - wget2
-     - 3
-   * - libucl
-     - 7
-   * - libtiff
-     - 6
-   * - libssh
-     - 1
-   * - openssl
-     - 31
-   * - coreutils
-     - 2
-   * - xbps
-     - 5
-   * - yara
-     - 6
-   * - wireshark
-     - 6
    * - libxml2
      - 3
-   * - proj
-     - 28
+   * - openssl
+     - 31
+   * - zsh
+     - 5
+   * - libtiff
+     - 6
+   * - xbps
+     - 5
+   * - wireshark
+     - 6
+   * - yara
+     - 6
+   * - coreutils
+     - 2
+   * - wget2
+     - 3
    * - libtiff-sanitizer
      - 3
+   * - cppcheck
+     - 30
+   * - libssh
+     - 1
+   * - proj
+     - 28
+   * - libucl
+     - 7
